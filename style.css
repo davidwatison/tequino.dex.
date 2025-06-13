@@ -1,0 +1,44 @@
+body {
+  background-color: #1e1e1e;
+  color: #ffffff;
+  font-family: "Segoe UI", sans-serif;
+  margin: 0;
+  padding: 0;
+}
+
+header {
+  background-color: #2d2d2d;
+  padding: 20px;
+  text-align: center;
+}
+
+#controls {
+  margin-top: 10px;
+}
+
+input, select {
+  padding: 8px;
+  margin: 5px;
+  border: none;
+  border-radius: 4px;
+}
+
+input {
+  width: 250px;
+}
+
+main {
+  padding: 20px;
+}
+
+.card {
+  background: #333;
+  padding: 15px;
+  margin-bottom: 15px;
+  border-radius: 6px;
+}
+
+.card a {
+  color: #0078d4;
+  text-decoration: none;
+}
