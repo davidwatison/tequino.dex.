@@ -1,0 +1,134 @@
+[
+  {
+    "id": "construct3",
+    "nome": "Construct 3",
+    "descricao": "Crie jogos 2D sem precisar programar.",
+    "link": "https://www.construct.net/"
+  },
+  {
+    "id": "unity",
+    "nome": "Unity",
+    "descricao": "Crie jogos 2D/3D com uma poderosa engine C#.",
+    "link": "https://unity.com/"
+  },
+  {
+    "id": "godot",
+    "nome": "Godot",
+    "descricao": "Engine de código aberto para jogos 2D e 3D.",
+    "link": "https://godotengine.org/"
+  },
+  {
+    "id": "scratch",
+    "nome": "Scratch",
+    "descricao": "Ideal para iniciantes e projetos educativos.",
+    "link": "https://scratch.mit.edu/"
+  },
+  {
+    "id": "unreal",
+    "nome": "Unreal Engine",
+    "descricao": "Engine poderosa com gráficos de última geração.",
+    "link": "https://www.unrealengine.com/"
+  },
+  {
+    "id": "gamemaker",
+    "nome": "GameMaker Studio",
+    "descricao": "Crie jogos 2D com programação simplificada.",
+    "link": "https://www.yoyogames.com/"
+  },
+  {
+    "id": "gdevelop",
+    "nome": "GDevelop",
+    "descricao": "Criação de jogos 2D sem código.",
+    "link": "https://gdevelop.io/"
+  },
+  {
+    "id": "stencyl",
+    "nome": "Stencyl",
+    "descricao": "Crie jogos estilo Flash com blocos visuais.",
+    "link": "https://www.stencyl.com/"
+  },
+  {
+    "id": "twine",
+    "nome": "Twine",
+    "descricao": "Crie histórias interativas com ramificações.",
+    "link": "https://twinery.org/"
+  },
+  {
+    "id": "rpgmaker",
+    "nome": "RPG Maker",
+    "descricao": "Ideal para criar RPGs estilo japonês.",
+    "link": "https://www.rpgmakerweb.com/"
+  },
+  {
+    "id": "roblox",
+    "nome": "Roblox Studio",
+    "descricao": "Crie jogos e publique na plataforma Roblox.",
+    "link": "https://create.roblox.com/"
+  },
+  {
+    "id": "buildbox",
+    "nome": "Buildbox",
+    "descricao": "Crie jogos para mobile sem programar.",
+    "link": "https://www.buildbox.com/"
+  },
+  {
+    "id": "tynker",
+    "nome": "Tynker",
+    "descricao": "Plataforma educacional com blocos de código.",
+    "link": "https://www.tynker.com/"
+  },
+  {
+    "id": "cocos",
+    "nome": "Cocos Creator",
+    "descricao": "Engine open source para mobile e web.",
+    "link": "https://www.cocos.com/en/creator"
+  },
+  {
+    "id": "piskel",
+    "nome": "Piskel",
+    "descricao": "Editor de sprites 2D gratuito e online.",
+    "link": "https://www.piskelapp.com/"
+  },
+  {
+    "id": "pixijs",
+    "nome": "PixiJS",
+    "descricao": "Biblioteca de gráficos 2D para JavaScript.",
+    "link": "https://pixijs.com/"
+  },
+  {
+    "id": "renpy",
+    "nome": "Ren’Py",
+    "descricao": "Crie visual novels com Python.",
+    "link": "https://www.renpy.org/"
+  },
+  {
+    "id": "bitsy",
+    "nome": "Bitsy",
+    "descricao": "Crie jogos narrativos simples estilo retrô.",
+    "link": "https://ledoux.itch.io/bitsy"
+  },
+  {
+    "id": "clickteam",
+    "nome": "Clickteam Fusion",
+    "descricao": "Engine 2D para iniciantes com lógica visual.",
+    "link": "https://www.clickteam.com/"
+  },
+  {
+    "id": "phaser",
+    "nome": "Phaser",
+    "descricao": "Framework HTML5 para jogos 2D.",
+    "link": "https://phaser.io/"
+  }
+]
+{
+  "title": "Tequinodex",
+  "search_placeholder": "Pesquisar plataformas...",
+  "visit_site": "Visitar site",
+  "view_tutorial": "Ver tutorial"
+}
+{
+  "title": "Tequinodex",
+  "search_placeholder": "Search platforms...",
+  "visit_site": "Visit site",
+  "view_tutorial": "View tutorial"
+}
